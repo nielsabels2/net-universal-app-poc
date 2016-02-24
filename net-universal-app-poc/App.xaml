@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="net_universal_app_poc.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:net_universal_app_poc"
+    RequestedTheme="Light">
+
+</Application>
