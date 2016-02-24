@@ -131,7 +131,7 @@
     </Page>
   </ItemGroup>
   
-  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+  <PropertyGroup Condition="true">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
 
