@@ -14566,6 +14566,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
+      "Microsoft.CSharp >= 4.0.0",
       "Microsoft.NETCore.Targets.UniversalWindowsPlatform >= 5.0.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0"
     ],
